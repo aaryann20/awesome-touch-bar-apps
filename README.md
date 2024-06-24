@@ -77,3 +77,4 @@ Use Electron to display Party Parrots on steroids on MacBooks Pro Touch Bar
 * [TouchTest](https://github.com/HeadBanging/TouchTest) - NSDocument with TouchBar support
 * [touchbar](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
 
+#most of them are not usefull use poke and touchswitcher applications for mac m2 touch bar
